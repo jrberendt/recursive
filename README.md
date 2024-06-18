@@ -1,2 +1,2 @@
-# recursive
-Static Site Generator written in Common Lisp.
+# Recursive
+Recursive is a static site generator written in Common Lisp.
